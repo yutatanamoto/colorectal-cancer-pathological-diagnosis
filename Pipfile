@@ -19,6 +19,7 @@ tensorflow = "*"
 scikit-learn = "*"
 pandas = "*"
 seaborn = "*"
+opencv-python = "*"
 
 [requires]
 python_version = "3.8"
