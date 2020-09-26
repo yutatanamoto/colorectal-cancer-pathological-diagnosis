@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+ipython = "*"
+pathlib = "*"
+jupyter = "*"
+numpy = "*"
+tqdm = "*"
+matplotlib = "*"
+tensorflow-io = "*"
+tensorflow-hub = "*"
+Pillow = "*"
+tensorflow = "*"
+scikit-learn = "*"
+pandas = "*"
+seaborn = "*"
+
+[requires]
+python_version = "3.8"

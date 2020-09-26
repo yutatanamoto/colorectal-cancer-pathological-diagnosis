@@ -1,0 +1,9 @@
+IPython
+pathlib
+jupyter
+pillow
+numpy
+tqdm
+matplotlib
+tensorflow-io
+tensorflow-hub
