@@ -9,3 +9,6 @@ matplotlib
 tensorflow
 tensorflow-io
 tensorflow-hub
+pandas
+seaborn
+scikit-learn

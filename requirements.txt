@@ -8,3 +8,6 @@ tqdm
 matplotlib
 tensorflow-io
 tensorflow-hub
+pandas
+seaborn
+scikit-learn
