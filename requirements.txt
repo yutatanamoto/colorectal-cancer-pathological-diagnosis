@@ -2,6 +2,7 @@ IPython
 pathlib
 jupyter
 pillow
+opencv-python
 numpy
 tqdm
 matplotlib

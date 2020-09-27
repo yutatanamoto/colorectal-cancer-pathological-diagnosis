@@ -4,6 +4,7 @@ jupyter
 pillow
 numpy
 tqdm
+opencv-python
 matplotlib
 tensorflow
 tensorflow-io
